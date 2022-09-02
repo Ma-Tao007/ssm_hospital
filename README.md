@@ -2,6 +2,12 @@
 
 项目经过多人测试运行，可以确保100%成功运行。
 
+
+项目代码已收录公众号【java项目源码】，需要请自行关注一下公众号并下载源码
+
+![公众号二维码](./运行截图/wechat.png)
+
+
 ### 项目简介
 基于ssm+layui框架的小型医院后台管理系统。简单实现了病人管理、病床管理、员工管理、部门管理、药品管理、仪器管理等基础功能。
 整个项目通过maven方式搭建用到的jar包通过maven导入，前端使用搭建好的Layui框架，拿来即用。后端使用SSM+MySQL，后台逻辑实现了分页、
@@ -23,5 +29,4 @@ CSDN博客地址：https://blog.csdn.net/mataodehtml/article/details/122301421
 
 B站运行视频：https://www.bilibili.com/video/BV1EY411p7Ds/
 
-项目下载地址：http://www.shiyuncode.com/details?id=25
 
